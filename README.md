@@ -2,7 +2,7 @@
 
 This implementation is for cifar10/100 fast training base on (https://github.com/davidcpage/cifar10-fast)
 
-Please check demo.ipynb.
+Please check [demo.ipynb](https://github.com/WeihaoZhuang/cifar10-100-fast-training/blob/master/demo.ipynb).
 
 You can run 70 epochs rather than 350 (https://github.com/kuangliu/pytorch-cifar) or 200 (https://github.com/weiaicunzai/pytorch-cifar100) epochs.
 
