@@ -22,10 +22,10 @@ Those models  from https://github.com/weiaicunzai/pytorch-cifar100/tree/master/m
 |ResNet50|95.62|77.66
 |MobileNet|92.25|60.35
 |MobileNetV2|93.69|62.56
-|DesNet-cifar|94.7|72.61
-|DensNet121|95.1|76.97
-|DensNet201|94.89|77.28
-|Wide-Resnet40|95.13|74.79
+|DenseNet-cifar|94.7|72.61
+|DenseNet121|95.1|76.97
+|DenseNet201|94.89|77.28
+|Wide-ResNet40|95.13|74.79
 |Wide-ResNet16|95.4|78.52
 |Wide-ResNet28|96.21|79.86
 |VGG11|92.41|70.07
