@@ -13,6 +13,7 @@ Requirements:
         
 Results:
 
+Those models  from https://github.com/weiaicunzai/pytorch-cifar100/tree/master/models
 | Model  | CIFAR-10 accuracy|CIFAR-100 accuracy|
 | ------------- | ------------- |  ------------- | 
 |ResNet18|95.32|76.75
