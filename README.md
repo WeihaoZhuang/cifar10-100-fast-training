@@ -13,7 +13,7 @@ You can run 70 epochs rather than 350 (https://github.com/kuangliu/pytorch-cifar
         
 ### Results:
 
-Those models  from https://github.com/weiaicunzai/pytorch-cifar100/tree/master/models
+Those models  from https://github.com/weiaicunzai/pytorch-cifar100/tree/master/models and https://github.com/kuangliu/pytorch-cifar/tree/master/models
 | Model  | CIFAR-10 accuracy|CIFAR-100 accuracy|
 | ------------- | ------------- |  ------------- | 
 |ResNet18|95.32|76.75
