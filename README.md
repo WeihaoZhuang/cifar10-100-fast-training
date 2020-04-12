@@ -5,13 +5,13 @@ Please check demo.ipynb
 
 You can run 70 epochs rather than 350 (https://github.com/kuangliu/pytorch-cifar) or 200 (https://github.com/weiaicunzai/pytorch-cifar100) epochs.
 
-Requirements:
+### Requirements:
 
         pytorch
         apex (https://nvidia.github.io/apex/)
         numpy
         
-Results:
+### Results:
 
 Those models  from https://github.com/weiaicunzai/pytorch-cifar100/tree/master/models
 | Model  | CIFAR-10 accuracy|CIFAR-100 accuracy|
